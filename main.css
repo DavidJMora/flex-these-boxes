@@ -57,9 +57,4 @@ align-items: center;
 }
 #main {
     display: flex;
-    flex-direction: column-reverse;
-}
-#app {
-    display: flex;
-    flex-direction: row;
 }
