@@ -41,8 +41,7 @@
 
 #footer {
 display: flex;
-justify-content: center;
-flex-direction: column-reverse;
+justify-content: flex-end;
 align-items: center;    
 font-size: 0.7em;
 }
