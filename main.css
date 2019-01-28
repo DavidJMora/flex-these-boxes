@@ -35,10 +35,6 @@
 
 #sidebar {
     width: 10%;
-    
-    
-    
-
 }
 
 #footer {
@@ -51,6 +47,8 @@ align-items: center;
 
 .card-body {
     width: 200px;
+    display: flex;
+    align-items: center;
     
 }
 
