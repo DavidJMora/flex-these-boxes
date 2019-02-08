@@ -30,9 +30,6 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    
-
-
 }
 
 #sidebar {
@@ -50,7 +47,6 @@ font-size: 0.7em;
     width: 200px;
     display: flex;
     align-items: center;
-    
 }
 
 .user-avatar {
@@ -58,5 +54,4 @@ font-size: 0.7em;
 }
 #main {
     display: flex;
-    
 }
